@@ -1,0 +1,30 @@
+#header {
+    background-color: #3366cc;
+   
+padding: 5%;
+height: 44px;
+color: black;
+}
+
+#header2 {
+    background-color: #cc3333;
+   
+    padding: 5%;
+    height: 44px;
+    color: black;
+}
+
+
+
+#header3 {
+background-color: green;   
+padding: 5%;
+height: 44px;
+color: black;}
+
+
+#logo{
+margin-top: -27%;
+ margin-left: 23%;
+  width: 50%; 
+}
